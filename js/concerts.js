@@ -1,6 +1,6 @@
 // ====== CONCERTS À VENIR ======
 const concertsAvenir = [
-    { date: "13 Décembre 2025", lieu: "Ride'n'Rock", ville: "Montans (81)" },
+    
     { date: "27 Mars 2026", lieu: "Les Marins d'eau douce", ville: "Ramonville Saint Agne (31)" },
     { date: "28 Mars 2026", lieu: "Vie d'Ange", ville: "Perigueux (24)" },
     { date: "13 Avril 2026", lieu: "Printemps de Bourges", ville: "Bourges (18)" },
@@ -18,6 +18,7 @@ const concertsAvenir = [
   
   // ====== CONCERTS PASSÉS ======
   const concertsPasses = [
+    { date: "13 Décembre 2025", lieu: "Ride'n'Rock", ville: "Montans (81)" },
     { date: "29 Novembre 2025", lieu: "Hangar 2.0", ville: "Bressuire (79)" },
     { date: "28 Novembre 2025", lieu: "La Taverne aux Ours", ville: "Parthenay (79)" },
     { date: "27 Novembre 2025", lieu: "Le Bar'ouf", ville: "Cholet (49)" },
