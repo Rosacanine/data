@@ -1,6 +1,5 @@
 // ====== CONCERTS À VENIR ======
 const concertsAvenir = [
-    
     { date: "27 Mars 2026", lieu: "Les Marins d'eau douce", ville: "Ramonville Saint Agne (31)" },
     { date: "28 Mars 2026", lieu: "Vie d'Ange", ville: "Perigueux (24)" },
     { date: "13 Avril 2026", lieu: "Printemps de Bourges", ville: "Bourges (18)" },
