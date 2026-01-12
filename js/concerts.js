@@ -7,10 +7,10 @@ const concertsAvenir = [
     { date: "15 Avril 2026", lieu: "Printemps de Bourges", ville: "Bourges (18)" },
     { date: "16 Avril 2026", lieu: "Printemps de Bourges", ville: "Bourges (18)" },
     { date: "17 Avril 2026", lieu: "Printemps de Bourges", ville: "Bourges (18)" },
+    { date: "24 Avril 2026", lieu: "L'Engrenage", ville: "Balma (31)" },
     { date: "11 Juillet 2026", lieu: "Festival", ville: "" },
     { date: "12 Juillet 2026", lieu: "Festival", ville: "" },
-    { date: "25 Juillet 2026", lieu: "Festival", ville: "" },
-    { date: "26 Juillet 2026", lieu: "Festival", ville: "" },
+    { date: "26 Juillet 2026", lieu: "Riff'n'Rumble", ville: "Gayan (65)" },
     { date: "5 Septembre 2026", lieu: "Festival", ville: "" }
   ];
   
