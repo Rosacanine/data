@@ -1,5 +1,4 @@
 // ====== CONCERTS À VENIR ======
-
 const concertsAvenir = [
     { date: "27 Mars 2026", lieu: "Les Marins d'eau douce", ville: "Ramonville Saint Agne (31)" },
     { date: "28 Mars 2026", lieu: "Vie d'Ange", ville: "Perigueux (24)" },
@@ -17,7 +16,6 @@ const concertsAvenir = [
   
   
   // ====== CONCERTS PASSÉS ======
-
   const concertsPasses = [
     { date: "13 Décembre 2025", lieu: "Ride'n'Rock", ville: "Montans (81)" },
     { date: "29 Novembre 2025", lieu: "Hangar 2.0", ville: "Bressuire (79)" },
