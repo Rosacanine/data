@@ -16,6 +16,7 @@ const concertsAvenir = [
   
   
   // ====== CONCERTS PASSÉS ======
+  
   const concertsPasses = [
     { date: "13 Décembre 2025", lieu: "Ride'n'Rock", ville: "Montans (81)" },
     { date: "29 Novembre 2025", lieu: "Hangar 2.0", ville: "Bressuire (79)" },
