@@ -1,15 +1,14 @@
 // ====== CONCERTS À VENIR ======
 const concertsAvenir = [
     { date: "27 Mars 2026", lieu: "Les Marins d'eau douce", ville: "Ramonville Saint Agne (31)" },
-    { date: "15 Avril 2026", lieu: "Les Tontons", ville: "Chateauroux (36)" },
     { date: "16 Avril 2026", lieu: "O Brian's", ville: "Bourges (18)" },
     { date: "17 Avril 2026", lieu: "MurrayField", ville: "Bourges (18)" },
     { date: "17 Avril 2026", lieu: "Festival", ville: "Bourges (18)" },
-    { date: "18 Avril 2026", lieu: "Le Central", ville: "Bourges (18)" },
     { date: "18 Avril 2026", lieu: "O Berry", ville: "Vierzon (18)" },
     { date: "24 Avril 2026", lieu: "L'Engrenage", ville: "Balma (31)" },
-    { date: "11 Juillet 2026", lieu: "Festival", ville: "" },
-    { date: "12 Juillet 2026", lieu: "Festival", ville: "" },
+    { date: "21 Mai 2026", lieu: "Festival AfterWorks", ville: "Négrepelisse (81)" },
+    { date: "20 Juin 2026", lieu: "Festival des Sorcières", ville: "Pouyastruc (65)" },
+    { date: "20 Juin 2026", lieu: "Festival La Salvetat", ville: "La Salvetat Saint-Gilles (31)" },
     { date: "26 Juillet 2026", lieu: "Riff'n'Rumble", ville: "Gayan (65)" },
     { date: "5 Septembre 2026", lieu: "Festival", ville: "" },
     { date: "11 Septembre 2026", lieu: "La VieDange", ville: "Les Versannes (24)" }
