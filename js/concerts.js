@@ -1,13 +1,14 @@
 // ====== CONCERTS À VENIR ======
+
 const concertsAvenir = [
-    { date: "14 Mars 2026", lieu: "Tremplin Rue Libre", ville: "La Salvetat-Peyralès (12)" },
+    
     { date: "27 Mars 2026", lieu: "Les Marins d'eau douce", ville: "Ramonville Saint Agne (31)" },
     { date: "16 Avril 2026", lieu: "O Brian's", ville: "Bourges (18)" },
     { date: "17 Avril 2026", lieu: "MurrayField", ville: "Bourges (18)" },
     { date: "17 Avril 2026", lieu: "Festival", ville: "Bourges (18)" },
     { date: "18 Avril 2026", lieu: "O Berry", ville: "Vierzon (18)" },
     { date: "24 Avril 2026", lieu: "L'Engrenage", ville: "Balma (31)" },
-    { date: "21 Mai 2026", lieu: "Festival AfterWorks", ville: "Négrepelisse (81)" },
+    { date: "18 Juin 2026", lieu: "Festival AfterWorks", ville: "Négrepelisse (81)" },
     { date: "20 Juin 2026", lieu: "Festival des Sorcières", ville: "Pouyastruc (65)" },
     { date: "4 Juillet 2026", lieu: "Festival La Salvetat", ville: "La Salvetat Saint-Gilles (31)" },    
     { date: "26 Juillet 2026", lieu: "Riff'n'Rumble", ville: "Gayan (65)" },
@@ -19,6 +20,8 @@ const concertsAvenir = [
   // ====== CONCERTS PASSÉS ======
   
   const concertsPasses = [
+      
+    { date: "14 Mars 2026", lieu: "Tremplin Rue Libre", ville: "La Salvetat-Peyralès (12)" },
     { date: "13 Décembre 2025", lieu: "Ride'n'Rock", ville: "Montans (81)" },
     { date: "29 Novembre 2025", lieu: "Hangar 2.0", ville: "Bressuire (79)" },
     { date: "28 Novembre 2025", lieu: "La Taverne aux Ours", ville: "Parthenay (79)" },
