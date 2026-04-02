@@ -2,7 +2,7 @@
 
 const concertsAvenir = [
     
-    { date: "27 Mars 2026", lieu: "Les Marins d'eau douce", ville: "Ramonville Saint Agne (31)" },
+    
     { date: "16 Avril 2026", lieu: "O Brian's", ville: "Bourges (18)" },
     { date: "17 Avril 2026", lieu: "MurrayField", ville: "Bourges (18)" },
     { date: "17 Avril 2026", lieu: "Festival", ville: "Bourges (18)" },
@@ -20,7 +20,8 @@ const concertsAvenir = [
   // ====== CONCERTS PASSÉS ======
   
   const concertsPasses = [
-      
+
+    { date: "27 Mars 2026", lieu: "Les Marins d'eau douce", ville: "Ramonville Saint Agne (31)" }, 
     { date: "14 Mars 2026", lieu: "Tremplin Rue Libre", ville: "La Salvetat-Peyralès (12)" },
     { date: "13 Décembre 2025", lieu: "Ride'n'Rock", ville: "Montans (81)" },
     { date: "29 Novembre 2025", lieu: "Hangar 2.0", ville: "Bressuire (79)" },
