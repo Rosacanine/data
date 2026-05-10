@@ -2,7 +2,7 @@
 
 const concertsAvenir = [
     
-    { date: "29 Mai 2026", lieu: "Chez Piccolo", ville: "Vabre-Tizac (12)" },
+    { date: "30 Mai 2026", lieu: "Chez Piccolo", ville: "Vabre-Tizac (12)" },
     { date: "18 Juin 2026", lieu: "Festival AfterWorks", ville: "Negrepelisse (81)" },
     { date: "20 Juin 2026", lieu: "Festival des Sorcières", ville: "Arros (65)" },
     { date: "4 Juillet 2026", lieu: "Festival La Salvetat", ville: "La Salvetat Saint-Gilles (31)" },    
