@@ -2,7 +2,7 @@
 
 const concertsAvenir = [
     
-    { date: "30 Mai 2026", lieu: "Chez Piccolo", ville: "Vabre-Tizac (12)" },
+    
     { date: "18 Juin 2026", lieu: "Festival AfterWorks", ville: "Negrepelisse (81)" },
     { date: "20 Juin 2026", lieu: "Festival des Sorcières", ville: "Arros (65)" },
     { date: "4 Juillet 2026", lieu: "Festival La Salvetat", ville: "La Salvetat Saint-Gilles (31)" },    
@@ -16,6 +16,7 @@ const concertsAvenir = [
   
   const concertsPasses = [
 
+    { date: "30 Mai 2026", lieu: "Chez Piccolo", ville: "Vabre-Tizac (12)" },
     { date: "24 Avril 2026", lieu: "L'Engrenage", ville: "Balma (31)" },
     { date: "18 Avril 2026", lieu: "O Berry", ville: "Vierzon (18)" },
     { date: "17 Avril 2026", lieu: "MurrayField", ville: "Bourges (18)" },
