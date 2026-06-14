@@ -10,7 +10,7 @@ const concertsAvenir = [
     { date: "4 Septembre 2026", lieu: "Festival Gragnarock", ville: "Gragnague (31)" },
     { date: "5 Septembre 2026", lieu: "Benoce Fest", ville: "Gayan (11)" },
     { date: "11 Septembre 2026", lieu: "La VieDange", ville: "Les Versannes (24)" },
-    { date: "25 Septembre 2026", lieu: "La Canopée - La Jarry", ville: "Gragnague (31)" }
+    { date: "25 Septembre 2026", lieu: "La Canopée - La Jarry", ville: "Fronton (31)" }
   ];
   
   
