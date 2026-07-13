@@ -2,8 +2,7 @@
 
 const concertsAvenir = [
     
-    
-    { date: "4 Juillet 2026", lieu: "Festival La Salvetat", ville: "La Salvetat Saint-Gilles (31)" },    
+       
     { date: "26 Juillet 2026", lieu: "Riff'n'Rumble", ville: "Gayan (65)" },
     { date: "4 Septembre 2026", lieu: "Festival Gragnarock", ville: "Gragnague (31)" },
     { date: "5 Septembre 2026", lieu: "Benoce Fest", ville: "Gayan (11)" },
@@ -19,6 +18,8 @@ const concertsAvenir = [
   
   const concertsPasses = [
 
+    { date: "10 Juillet 2026", lieu: "Festival Launac", ville: "Launac (31)" }, 
+    { date: "4 Juillet 2026", lieu: "Festival La Salvetat", ville: "La Salvetat Saint-Gilles (31)" }, 
     { date: "20 Juin 2026", lieu: "Festival des Sorcières", ville: "Arros (65)" },
     { date: "18 Juin 2026", lieu: "Festival AfterWorks", ville: "Negrepelisse (81)" },
     { date: "30 Mai 2026", lieu: "Chez Piccolo", ville: "Vabre-Tizac (12)" },
