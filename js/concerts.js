@@ -1,10 +1,7 @@
 // ====== CONCERTS À VENIR ======
 
 const concertsAvenir = [
-    
-       
-    { date: "4 Septembre 2026", lieu: "Festival Gragnarock", ville: "Gragnague (31)" },
-    { date: "5 Septembre 2026", lieu: "Benoce Fest", ville: "Gayan (11)" },
+
     { date: "11 Septembre 2026", lieu: "La VieDange", ville: "Les Versannes (24)" },
     { date: "25 Septembre 2026", lieu: "La Canopée - La Jarry", ville: "Gragnague (31)" },
     { date: "8 Octobre 2026", lieu: "Emergence - Les Wampas", ville: "Montauban (82)" },
@@ -17,6 +14,8 @@ const concertsAvenir = [
   
   const concertsPasses = [
 
+    { date: "5 Septembre 2026", lieu: "Benoce Fest", ville: "Gayan (11)" },
+    { date: "4 Septembre 2026", lieu: "Festival Gragnarock", ville: "Gragnague (31)" },
     { date: "26 Juillet 2026", lieu: "Riff'n'Rumble", ville: "Gayan (65)" },
     { date: "10 Juillet 2026", lieu: "Festival Launac", ville: "Launac (31)" }, 
     { date: "4 Juillet 2026", lieu: "Festival La Salvetat", ville: "La Salvetat Saint-Gilles (31)" }, 
