@@ -2,9 +2,10 @@
 
 const concertsAvenir = [
 
-    { date: "11 Septembre 2026", lieu: "La VieDange", ville: "Les Versannes (24)" },
-    { date: "25 Septembre 2026", lieu: "La Canopée - La Jarry", ville: "Gragnague (31)" },
-    { date: "8 Octobre 2026", lieu: "Emergence - Les Wampas", ville: "Montauban (82)" },
+    
+    { date: "25 Septembre 2026", lieu: "La Canopée (1e - La Jarry)", ville: "Fronton (31)" },
+    { date: "8 Octobre 2026", lieu: "Emergence (1e - Les Wampas)", ville: "Montauban (82)" },
+    { date: "10 Octobre 2026", lieu: "La Boissonneuse", ville: "Najac (12)" }
     { date: "28 Novembre 2026", lieu: "Le Hangar", ville: "Pompertuzat (31)" }
     
   ];
@@ -14,6 +15,7 @@ const concertsAvenir = [
   
   const concertsPasses = [
 
+    { date: "11 Septembre 2026", lieu: "La VieDange", ville: "Les Versannes (24)" },
     { date: "5 Septembre 2026", lieu: "Benoce Fest", ville: "Gayan (11)" },
     { date: "4 Septembre 2026", lieu: "Festival Gragnarock", ville: "Gragnague (31)" },
     { date: "26 Juillet 2026", lieu: "Riff'n'Rumble", ville: "Gayan (65)" },
@@ -51,8 +53,8 @@ const concertsAvenir = [
     { date: "17 Avril 2025", lieu: "Scène Berry", ville: "Bourges (18)" },
     { date: "16 Avril 2025", lieu: "Café Ô Berry", ville: "Vierzon (18)" },
     { date: "16 Avril 2025", lieu: "The Black Swan", ville: "Bourges (18)" },
-    { date: "13 Mars 2025", lieu: "Le REX - DEPORTIVO", ville: "Toulouse (31)" },
-    { date: "21 Février 2025", lieu: "Le 6MIC - Mouss et Akim (Zebda)", ville: "Aix en Provence (13)" },
+    { date: "13 Mars 2025", lieu: "Le REX (1e - DEPORTIVO)", ville: "Toulouse (31)" },
+    { date: "21 Février 2025", lieu: "Le 6MIC (1e - Mouss et Akim)", ville: "Aix en Provence (13)" },
     { date: "25 Janvier 2025", lieu: "Salle Yves Montant", ville: "Saint Alban (31)" },
     { date: "18 au 20 Janvier 2025", lieu: "Résidence", ville: "Saint Alban (31)" },
     { date: "29 Novembre 2024", lieu: "Levrette Café", ville: "Nantes (44)" },
