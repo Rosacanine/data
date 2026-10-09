@@ -2,7 +2,7 @@
 
 const concertsAvenir = [
   
-  { date: "8 Octobre 2026", lieu: "Emergence (1e - Les Wampas)", ville: "Montauban (82)" },
+
   { date: "10 Octobre 2026", lieu: "La Boissonneuse", ville: "Najac (12)" },
   { date: "28 Novembre 2026", lieu: "Le Hangar", ville: "Pompertuzat (31)" }
 ];
@@ -10,6 +10,7 @@ const concertsAvenir = [
 // ====== CONCERTS PASSÉS ======
 
 const concertsPasses = [
+  { date: "8 Octobre 2026", lieu: "Emergence (1e - Les Wampas)", ville: "Montauban (82)" },
   { date: "25 Septembre 2026", lieu: "La Canopée (1e - La Jarry)", ville: "Fronton (31)" },
   { date: "11 Septembre 2026", lieu: "La VieDange", ville: "Les Versannes (24)" },
   { date: "5 Septembre 2026", lieu: "Benoce Fest", ville: "Gayan (11)" },
