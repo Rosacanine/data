@@ -2,8 +2,9 @@
 
 const concertsAvenir = [
   
-
-  { date: "28 Novembre 2026", lieu: "Le Hangar", ville: "Pompertuzat (31)" }
+  { date: "13 Novembre 2026", lieu: "Le Bijou (1e - Blankaas", ville: "Toulouse (31)" },
+  { date: "28 Novembre 2026", lieu: "Le Hangar", ville: "Pompertuzat (31)" },
+  { date: "12 Décembre 2026", lieu: "Festival Panissal", ville: "La Salvetat Peyralès (12)" }
 ];
 
 // ====== CONCERTS PASSÉS ======
