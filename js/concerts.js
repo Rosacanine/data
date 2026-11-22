@@ -2,7 +2,7 @@
 
 const concertsAvenir = [
   
-  { date: "13 Novembre 2026", lieu: "Le Bijou (1e - Blankass)", ville: "Toulouse (31)" },
+  
   { date: "28 Novembre 2026", lieu: "Le Hangar", ville: "Pompertuzat (31)" },
   { date: "12 Décembre 2026", lieu: "Festival Panissal", ville: "La Salvetat Peyralès (12)" }
 ];
@@ -10,6 +10,8 @@ const concertsAvenir = [
 // ====== CONCERTS PASSÉS ======
 
 const concertsPasses = [
+  
+  { date: "13 Novembre 2026", lieu: "Le Bijou (1e - Blankass)", ville: "Toulouse (31)" },
   { date: "10 Octobre 2026", lieu: "La Boissonneuse", ville: "Najac (12)" },
   { date: "8 Octobre 2026", lieu: "Emergence (1e - Les Wampas)", ville: "Montauban (82)" },
   { date: "25 Septembre 2026", lieu: "La Canopée (1e - La Jarry)", ville: "Fronton (31)" },
